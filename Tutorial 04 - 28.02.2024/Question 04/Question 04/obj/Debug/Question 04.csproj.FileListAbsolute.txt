@@ -1,0 +1,10 @@
+C:\Users\Arvin\Documents\Visual Studio 2022\Tutorials\Tutorial 04 - 28.02.2024\Question 04\Question 04\bin\Debug\Question 04.exe.config
+C:\Users\Arvin\Documents\Visual Studio 2022\Tutorials\Tutorial 04 - 28.02.2024\Question 04\Question 04\bin\Debug\Question 04.exe
+C:\Users\Arvin\Documents\Visual Studio 2022\Tutorials\Tutorial 04 - 28.02.2024\Question 04\Question 04\bin\Debug\Question 04.pdb
+C:\Users\Arvin\Documents\Visual Studio 2022\Tutorials\Tutorial 04 - 28.02.2024\Question 04\Question 04\obj\Debug\Question 04.csproj.AssemblyReference.cache
+C:\Users\Arvin\Documents\Visual Studio 2022\Tutorials\Tutorial 04 - 28.02.2024\Question 04\Question 04\obj\Debug\Question_04.Form1.resources
+C:\Users\Arvin\Documents\Visual Studio 2022\Tutorials\Tutorial 04 - 28.02.2024\Question 04\Question 04\obj\Debug\Question_04.Properties.Resources.resources
+C:\Users\Arvin\Documents\Visual Studio 2022\Tutorials\Tutorial 04 - 28.02.2024\Question 04\Question 04\obj\Debug\Question 04.csproj.GenerateResource.cache
+C:\Users\Arvin\Documents\Visual Studio 2022\Tutorials\Tutorial 04 - 28.02.2024\Question 04\Question 04\obj\Debug\Question 04.csproj.CoreCompileInputs.cache
+C:\Users\Arvin\Documents\Visual Studio 2022\Tutorials\Tutorial 04 - 28.02.2024\Question 04\Question 04\obj\Debug\Question 04.exe
+C:\Users\Arvin\Documents\Visual Studio 2022\Tutorials\Tutorial 04 - 28.02.2024\Question 04\Question 04\obj\Debug\Question 04.pdb
